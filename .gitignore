@@ -1,0 +1,17 @@
+# data
+data/*
+!data/.gitkeep
+
+# go
+*.test
+*.out
+bench.txt
+
+# web
+web/node_modules/
+web/dist/
+
+# editor / os
+.vscode/
+.idea/
+.DS_Store
